@@ -1,0 +1,15 @@
+{
+  "name": "vscode-picky-programmer",
+  "displayName": "Picky Programmer Pack",
+  "description": "An extension pack for picky programmers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
