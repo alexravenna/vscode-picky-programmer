@@ -10,6 +10,7 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "oderwat.indent-rainbow",
+    "evondev.indent-rainbow-palettes"
   ]
 }
