@@ -11,6 +11,7 @@
   ],
   "extensionPack": [ 
     "oderwat.indent-rainbow",
-    "evondev.indent-rainbow-palettes"
+    "evondev.indent-rainbow-palettes",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
