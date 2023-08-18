@@ -1,16 +1,14 @@
-# vscode-picky-programmer README
+# Picky Programmer Extension Pack
 
-## Working with Markdown
+An extension pack for picky programmers. Recognize invalid/unnecessary/unwanted whitespace/spellings and linting/formatting/syntax errors as well as be able to sort/alphabetize code quickly.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+For those of you who (like me) are bothered by these little things and have to fix them immediately!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Contents
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+| Extension| Links  | Description |
+| -------- | ----------- | ------ |
+| indent-rainbow | [Marketplace](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) [GitHub](https://github.com/oderwat/vscode-indent-rainbow) | Colorize indents
+| Indent Rainbow Palettes | [Marketplace](https://marketplace.visualstudio.com/items?itemName=evondev.indent-rainbow-palettes) [GitHub](https://github.com/evondev/indent-rainbow-palettes) | Presets for indent-rainbow
+| Code Spell Checker | [Marketplace](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) [GitHub](https://github.com/streetsidesoftware/vscode-spell-checker.git) | Spell check your code
+| ErrorLens | [Marketplace](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) [GitHub](https://github.com/usernamehw/vscode-error-lens.git) | Turbocharge language diagnostics (i.e. make errors stand out quickly) |
