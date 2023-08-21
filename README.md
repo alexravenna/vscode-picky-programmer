@@ -1,6 +1,11 @@
 # Picky Programmer Extension Pack
 
-A VS Code extension pack for picky programmers. Recognize invalid/unnecessary/unwanted whitespace/spellings and linting/formatting/syntax errors as well as be able to sort/alphabetize code quickly.
+A VS Code extension pack for picky programmers. Quickly recognize and remove or fix:
+
+- invalid/unnecessary/unwanted whitespace/spellings
+- linting/formatting/syntax errors
+
+as well as be able to sort/alphabetize code fast.
 
 For those of you who (like me) are bothered by these little things and have to fix them immediately!
 
